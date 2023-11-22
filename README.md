@@ -3,9 +3,9 @@
 | ----------- | ----------- |
 | Name | Muhammad Rizqi |
 | Nickname | Kingki19 |
-| Location | Central Java, Indonesia |
+| Location | Kudus, Central Java, Indonesia |
 | Interests | Data, writing, technology, AI, science, hydroponics |
-| Hobbies | Gaming (MOBA), programming, problem-solving (competitive programming), creative writing | 
+| Hobbies | Gaming, programming, problem-solving (competitive programming and Kaggle competition), creative writing | 
 
 Nothing special about me
 <!--
