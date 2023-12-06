@@ -7,7 +7,8 @@
 | Interests | Data, writing, technology, AI, science, hydroponics |
 | Hobbies | Gaming, programming, problem-solving (competitive programming and Kaggle competition), creative writing | 
 
-Nothing special about me
+Connect with me:
+[![GitHub](https://img.shields.io/badge/GitHub-Kingki19-blue?logo=github)](https://github.com/Kingki19) [![Kaggle](https://img.shields.io/badge/Kaggle-kingki19-blue?logo=kaggle)](https://www.kaggle.com/kingki19) [![Medium](https://img.shields.io/badge/Medium-Muhammad%20Rizqi-blue?logo=medium)](https://medium.com/@mrizqi6061)
 <!--
 **Kingki19/Kingki19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
