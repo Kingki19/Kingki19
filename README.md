@@ -12,7 +12,7 @@ Connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-Kingki19-blue?logo=github)](https://github.com/Kingki19) [![Kaggle](https://img.shields.io/badge/Kaggle-kingki19-blue?logo=kaggle)](https://www.kaggle.com/kingki19) [![Medium](https://img.shields.io/badge/Medium-Muhammad%20Rizqi-blue?logo=medium)](https://medium.com/@mrizqi6061)
 
 # Kaggle Card
-![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?kingki19)
+![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?Kingki19)
 
 # Code stats in Github
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kingki19&theme=nord_bright)
