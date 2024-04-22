@@ -5,7 +5,7 @@
 | Nickname | Kingki19 |
 | Location | Kudus, Central Java, Indonesia |
 | Interests | Data, technology, AI, science, hydroponics, generative-AI, Coffee, watch some anime |
-| Hobbies | Gaming (build and battle strategy like Boom Beach), programming, problem-solving (competitive programming and Kaggle competition), prompting | 
+| Hobbies | Gaming (Hackers, Boom Beach), programming, problem-solving (competitive programming and Kaggle competition), prompting | 
 | Motto | "To be is to do" ~Socrates |
 
 Connect with me:
