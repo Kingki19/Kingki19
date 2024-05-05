@@ -4,8 +4,8 @@
 | Name | Muhammad Rizqi |
 | Nickname | Kingki19 |
 | Location | Kudus, Central Java, Indonesia |
-| Interests | Data, technology, AI, science, hydroponics, generative-AI, Coffee, watch some anime |
-| Hobbies | Gaming (Hackers, Boom Beach), programming, problem-solving (competitive programming and Kaggle competition), prompting | 
+| Interests | Data, technology, AI, science, hydroponics, generative-AI, Coffee, watch some anime, climate |
+| Hobbies | Gaming (Hackers, Boom Beach, CoC), programming, problem-solving (competitive programming and Kaggle competition), prompting | 
 | Motto | "To be is to do" ~Socrates |
 
 *Don't be shy to request help from me if you have problems, i feel free to help you*  
