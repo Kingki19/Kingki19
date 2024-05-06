@@ -7,7 +7,9 @@
 | Interests | Data, technology, AI, science, hydroponics, generative-AI, Coffee, watch some anime, climate |
 | Hobbies | Gaming (Hackers, Boom Beach, CoC), programming, problem-solving (competitive programming and Kaggle competition), prompting | 
 | Motto | "To be is to do" ~Socrates; "Truth is very dark, the light you find comes from within yourself." |
-  
+
+![](https://komarev.com/ghpvc/?username=Kingki19&label=visitors)
+
 Connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-Kingki19-blue?logo=github)](https://github.com/Kingki19) [![Kaggle](https://img.shields.io/badge/Kaggle-kingki19-blue?logo=kaggle)](https://www.kaggle.com/kingki19) [![Medium](https://img.shields.io/badge/Medium-Muhammad%20Rizqi-blue?logo=medium)](https://medium.com/@mrizqi6061)
 
