@@ -4,9 +4,10 @@
 | Name | Muhammad Rizqi |
 | Nickname | Kingki19 |
 | Location | Kudus, Central Java, Indonesia |
+| Language | Indonesia (Native), English (Fluent) |
 | Interests | Data, technology, AI, science, hydroponics, generative-AI, Coffee, watch some anime, climate |
-| Hobbies | Gaming (Hackers, Boom Beach, CoC), programming, problem-solving (competitive programming and Kaggle competition), prompting | 
-| Motto | "To be is to do" ~Socrates; "Truth is very dark, the light you find comes from within yourself." |
+| Hobbies | Gaming (Hackers, ~Boom Beach, CoC~), programming, problem-solving (competitive programming and Kaggle competition), prompting | 
+| Motto | 1. "To be is to do" ~Socrates; 2. "Truth is very dark, the light you find comes from within yourself."; 3. "Memento Mori" |
 
 ![](https://komarev.com/ghpvc/?username=Kingki19&label=visitors)
 
