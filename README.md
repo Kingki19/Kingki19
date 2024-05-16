@@ -9,6 +9,8 @@
 | Hobbies | Gaming (Hackers, ~Boom Beach, CoC~), programming, problem-solving (competitive programming and Kaggle competition), prompting | 
 | Motto | 1. "To be is to do" ~Socrates; 2. "Truth is very dark, the light you find comes from within yourself."; 3. "Memento Mori" |
 
+> Most of my apps, i use Python and Streamlit framework because it's easy (i can express and built my app idea alone) and free deployment (in streamlit community cloud). I never code locally, that is reason you will see lot of commits in my reposities.
+
 ![](https://komarev.com/ghpvc/?username=Kingki19&label=visitors)
 
 Connect with me:
