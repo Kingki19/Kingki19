@@ -6,8 +6,8 @@
 | Nickname | Kingki19 |
 | Location | Kudus, Central Java, Indonesia |
 | Language | Indonesia (Native), English (Fluent), Jawa (Native) |
-| Interests | Data, technology, AI, science, hydroponics, generative-AI, Coffee, watch some anime, SDG |
-| Hobbies | Gaming (Hackers, ~Boom Beach, CoC~), programming, problem-solving (competitive programming and Kaggle competition), prompting, growing through challenges | 
+| Interests | Data, technology, AI, science, hydroponics, generative-AI, Coffee, SDG |
+| Hobbies | Living life | 
 | Motto | "*Memento Mori*" |
 
 > Most of my apps, i use Python and Streamlit framework because it's easy (i can express and built my app idea alone) and free deployment (in streamlit community cloud). I never code locally, that is reason you will see lot of commits in my reposities.
