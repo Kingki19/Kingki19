@@ -11,6 +11,7 @@
 | Motto | "*Memento Mori*" |
 
 > Most of my apps, i use Python and Streamlit framework because it's easy (i can express and built my app idea alone) and free deployment (in streamlit community cloud). I never code locally, that is reason you will see lot of commits in my reposities.
+> Damn, i tried to join some organization in my campus but there's nothing that focus on AI development. Actually, there's research organization, but my attitude is fucked up while interview and i didn't get accepted. I put all of my best works here, some alone and some is best works with my friends. 
 
 # Technology
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
