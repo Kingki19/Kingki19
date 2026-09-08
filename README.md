@@ -2,7 +2,7 @@
 While (Alive & Awake & Do_not_sick):
   Do {
     Collage_activity,
-    Parttime_work,
+    Part_time_work,
     Research,
     Learn_Chinese
   }   
