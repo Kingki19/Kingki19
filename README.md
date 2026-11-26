@@ -4,7 +4,8 @@ While ((Alive & Awake & Do_not_sick) == TRUE):
     Collage_activity,
     Part_time_work,
     Research,
-    Learn_Chinese
+    Learn_Chinese,
+    Exercising
   }   
 ```
 
